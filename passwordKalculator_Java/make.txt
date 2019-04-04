@@ -1,0 +1,15 @@
+javac Exception/MyException.java
+javac StartingData/StartingData.java
+javac StartingData/NameSurname.java
+javac StartingData/Date.java
+javac StartingData/Address.java
+javac StartingData/Word.java
+javac StartingData/Numberr.java
+
+javac Password/Password.java
+javac Password/Lev0.java
+javac Password/Lev1.java
+javac Password/Lev2.java
+javac Password/Lev3.java
+javac Test.java
+java Test
